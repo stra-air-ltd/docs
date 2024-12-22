@@ -17,6 +17,7 @@ npm install
 ```
 3. 启动项目
 ``` bash
+npm run bulid
 npm run serve
 ```
 
