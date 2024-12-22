@@ -1,4 +1,4 @@
-# Website
+# 星空伟奕文档
 
 ## 关于项目
 本项目是一个基于 Docsocusaurus 的静态网站，用于展示企业技术文档。
@@ -17,8 +17,7 @@ npm install
 ```
 3. 启动项目
 ``` bash
-npm run bulid
-npm run serve
+npx docusaurus start
 ```
 
 ## 如何使用
