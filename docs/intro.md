@@ -1,13 +1,22 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
+# 前端简介
 
-# 关于项目  
+## 1. 项目简介
+本项目使用Vue.js3.0 + React + TypeScript + Vite 开发。
 
-## 项目简介
-本项目前端使用Vue3 + TypeScript + Vite 开发, 后端使用Hapi.js + TypeScript + MySQL 开发。  
-
-## 项目地址  
-
-github组织 [https://github.com/stra-air-ltd/docs](https://github.com/stra-air-ltd/ "星空伟奕(成都)科技有限责任公司的github组织")  
-
+## 2. 目录结构
+```bash
+├─public
+└─src
+    ├─assets
+    │  ├─font-awesome
+    │  └─typeScript
+    ├─components
+    │  ├─icons
+    │  └─__tests__
+    ├─router
+    ├─stores
+    └─views
+```
